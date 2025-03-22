@@ -7,6 +7,7 @@ public class PassingExample {
     }
 
     static void greet(String naam) {
+
         System.out.println(naam);
     }
 }
