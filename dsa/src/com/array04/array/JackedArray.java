@@ -1,6 +1,6 @@
 package com.array04.array;
 
-public class ColNoFixed {
+public class JackedArray {
     public static void main(String[] args) {
         int[][] arr = {
                 {1, 2, 3, 4},
